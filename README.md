@@ -14,4 +14,4 @@ This repository is the result of a school exercise and of a sprint of 1 week to 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Quality certification
-[![CodeFactor](https://www.codefactor.io/repository/github/CodingFactory-Repos/JavaFX-Decimal-to-Binary/badge)](https://www.codefactor.io/repository/github/CodingFactory-Repos/JavaFX-Decimal-to-Binary)
+[![CodeFactor](https://www.codefactor.io/repository/github/CodingFactory-Repos/JavaFX-Decimal-to-Hexadecimal/badge)](https://www.codefactor.io/repository/github/CodingFactory-Repos/JavaFX-Decimal-to-Hexadecimal)
